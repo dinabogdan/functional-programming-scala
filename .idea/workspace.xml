@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222dbe85-ae35-4f64-a76c-1af0c2dffd18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter2/MyModule.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional-programming-scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/functional-programming-scala.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/MyModule.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/MyModule.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +75,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -157,7 +162,7 @@
       <updated>1574432007140</updated>
       <workItem from="1574432011863" duration="5015000" />
       <workItem from="1574662743458" duration="45000" />
-      <workItem from="1614076941521" duration="379000" />
+      <workItem from="1614076941521" duration="4988000" />
     </task>
     <servers />
   </component>
