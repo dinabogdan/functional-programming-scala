@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222dbe85-ae35-4f64-a76c-1af0c2dffd18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter7/ParallelComputer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Actor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Nonblocking.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +179,7 @@
       <workItem from="1614715937101" duration="5536000" />
       <workItem from="1614884158967" duration="3015000" />
       <workItem from="1614953688299" duration="1365000" />
-      <workItem from="1615018533236" duration="5319000" />
+      <workItem from="1615018533236" duration="8002000" />
     </task>
     <servers />
   </component>
